@@ -1,0 +1,402 @@
+[
+  {
+    "store_location": "Dallas",
+    "customer_email": "The jeans was missing parts and I want a refund."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I love the jacket I bought from this store."
+  },
+  {
+    "store_location": "Houston",
+    "customer_email": "The bookshelf stopped working after a few days."
+  },
+  {
+    "store_location": "Houston",
+    "customer_email": "The table was missing parts and I want a refund."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "The table works perfectly. Great experience."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The hoodie was missing parts and I want a refund."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I bought a chair and I am very happy with it."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "The jacket arrived on time and works great."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "Very poor experience. The bookshelf broke almost immediately."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The microwave stopped working after a few days."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The chair arrived on time and works great."
+  },
+  {
+    "store_location": "Los Angeles",
+    "customer_email": "I bought a hoodie and I am very happy with it."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "Very poor experience. The couch broke almost immediately."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The speaker arrived on time and works great."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "The laptop stopped working after a few days."
+  },
+  {
+    "store_location": "Houston",
+    "customer_email": "I recently purchased a couch and the quality is excellent."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The couch works perfectly. Great experience."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The table arrived on time and works great."
+  },
+  {
+    "store_location": "Houston",
+    "customer_email": "I am unhappy with the quality of the desk."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I bought a toaster and I am very happy with it."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I am unhappy with the quality of the dress."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "I love the jeans I bought from this store."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I am unhappy with the quality of the jeans."
+  },
+  {
+    "store_location": "Houston",
+    "customer_email": "The couch was missing parts and I want a refund."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I bought a headphones and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "Los Angeles",
+    "customer_email": "The hoodie stopped working after a few days."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I bought a couch and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "The chair works perfectly. Great experience."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I am unhappy with the quality of the chair."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I bought a hoodie and I am very happy with it."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The bookshelf arrived on time and works great."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The jacket works perfectly. Great experience."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "The microwave stopped working after a few days."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "I bought a jacket and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "Los Angeles",
+    "customer_email": "I am unhappy with the quality of the couch."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I am unhappy with the quality of the bookshelf."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I bought a phone and I am very happy with it."
+  },
+  {
+    "store_location": "Houston",
+    "customer_email": "The shirt works perfectly. Great experience."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The couch works perfectly. Great experience."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I recently purchased a chair and the quality is excellent."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "The bookshelf works perfectly. Great experience."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I love the blender I bought from this store."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "The microwave was missing parts and I want a refund."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I bought a table and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The coffee maker was missing parts and I want a refund."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I recently purchased a couch and the quality is excellent."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "Very poor experience. The headphones broke almost immediately."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The jeans works perfectly. Great experience."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I bought a chair and I am very happy with it."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "Very poor experience. The headphones broke almost immediately."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I recently purchased a speaker and the quality is excellent."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "I bought a coffee maker and I am very happy with it."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I love the couch I bought from this store."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I am unhappy with the quality of the chair."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "Very poor experience. The table broke almost immediately."
+  },
+  {
+    "store_location": "Houston",
+    "customer_email": "The bookshelf was missing parts and I want a refund."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "I love the blender I bought from this store."
+  },
+  {
+    "store_location": "Los Angeles",
+    "customer_email": "I am unhappy with the quality of the microwave."
+  },
+  {
+    "store_location": "Houston",
+    "customer_email": "I bought a bookshelf and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The air fryer arrived on time and works great."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "I love the headphones I bought from this store."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "Very poor experience. The headphones broke almost immediately."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I love the microwave I bought from this store."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "I love the couch I bought from this store."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "The chair works perfectly. Great experience."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "I am unhappy with the quality of the table."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I bought a microwave and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The blender stopped working after a few days."
+  },
+  {
+    "store_location": "Los Angeles",
+    "customer_email": "The couch stopped working after a few days."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I bought a laptop and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "Very poor experience. The bookshelf broke almost immediately."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I love the table I bought from this store."
+  },
+  {
+    "store_location": "Houston",
+    "customer_email": "The chair arrived on time and works great."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I bought a toaster and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "Los Angeles",
+    "customer_email": "The toaster arrived on time and works great."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I bought a phone and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The table arrived on time and works great."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I bought a headphones and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I bought a blender and I am very happy with it."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I recently purchased a couch and the quality is excellent."
+  },
+  {
+    "store_location": "Los Angeles",
+    "customer_email": "I am unhappy with the quality of the blender."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "Very poor experience. The chair broke almost immediately."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "The tablet works perfectly. Great experience."
+  },
+  {
+    "store_location": "Houston",
+    "customer_email": "The couch was missing parts and I want a refund."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "I bought a bookshelf and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "Very poor experience. The headphones broke almost immediately."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "Very poor experience. The microwave broke almost immediately."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The dress stopped working after a few days."
+  },
+  {
+    "store_location": "Los Angeles",
+    "customer_email": "I bought a phone and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "Houston",
+    "customer_email": "The bookshelf arrived on time and works great."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The chair works perfectly. Great experience."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The shirt arrived on time and works great."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The speaker was missing parts and I want a refund."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I recently purchased a bookshelf and the quality is excellent."
+  },
+  {
+    "store_location": "Chicago",
+    "customer_email": "The phone arrived on time and works great."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The jeans stopped working after a few days."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "I bought a shirt and it arrived damaged. Very disappointed."
+  },
+  {
+    "store_location": "New York",
+    "customer_email": "The microwave arrived on time and works great."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I bought a couch and I am very happy with it."
+  },
+  {
+    "store_location": "Dallas",
+    "customer_email": "I love the desk I bought from this store."
+  }
+]
