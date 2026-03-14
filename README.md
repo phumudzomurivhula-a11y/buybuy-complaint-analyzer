@@ -1,4 +1,4 @@
-# BuyBuy Complaint Analyzer
+# Customer Feedback Intelligence system
 
 This project explores how Large Language Models (LLMs) can be used to analyze customer feedback automatically.
 
